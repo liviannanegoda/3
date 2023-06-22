@@ -1,0 +1,16 @@
+C:\Users\New\Desktop\Дз (Базовые алгоритмы. Продолжение)\Задача 1\bin\Debug\net6.0\Задача 1.exe
+C:\Users\New\Desktop\Дз (Базовые алгоритмы. Продолжение)\Задача 1\bin\Debug\net6.0\Задача 1.deps.json
+C:\Users\New\Desktop\Дз (Базовые алгоритмы. Продолжение)\Задача 1\bin\Debug\net6.0\Задача 1.runtimeconfig.json
+C:\Users\New\Desktop\Дз (Базовые алгоритмы. Продолжение)\Задача 1\bin\Debug\net6.0\Задача 1.dll
+C:\Users\New\Desktop\Дз (Базовые алгоритмы. Продолжение)\Задача 1\bin\Debug\net6.0\ref\Задача 1.dll
+C:\Users\New\Desktop\Дз (Базовые алгоритмы. Продолжение)\Задача 1\bin\Debug\net6.0\Задача 1.pdb
+C:\Users\New\Desktop\Дз (Базовые алгоритмы. Продолжение)\Задача 1\obj\Debug\net6.0\Задача 1.GlobalUsings.g.cs
+C:\Users\New\Desktop\Дз (Базовые алгоритмы. Продолжение)\Задача 1\obj\Debug\net6.0\Задача 1.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\Дз (Базовые алгоритмы. Продолжение)\Задача 1\obj\Debug\net6.0\Задача 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\Дз (Базовые алгоритмы. Продолжение)\Задача 1\obj\Debug\net6.0\Задача 1.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\Дз (Базовые алгоритмы. Продолжение)\Задача 1\obj\Debug\net6.0\Задача 1.AssemblyInfo.cs
+C:\Users\New\Desktop\Дз (Базовые алгоритмы. Продолжение)\Задача 1\obj\Debug\net6.0\Задача 1.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\Дз (Базовые алгоритмы. Продолжение)\Задача 1\obj\Debug\net6.0\Задача 1.dll
+C:\Users\New\Desktop\Дз (Базовые алгоритмы. Продолжение)\Задача 1\obj\Debug\net6.0\ref\Задача 1.dll
+C:\Users\New\Desktop\Дз (Базовые алгоритмы. Продолжение)\Задача 1\obj\Debug\net6.0\Задача 1.pdb
+C:\Users\New\Desktop\Дз (Базовые алгоритмы. Продолжение)\Задача 1\obj\Debug\net6.0\Задача 1.genruntimeconfig.cache
